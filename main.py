@@ -2,7 +2,7 @@
 "Case 2"
 Group:
 Fishchukova Sofia
-Tsvykh Viktoria
+Tsvykh Viktoria 70%
 """
 
 import ru_local as ru
