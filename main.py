@@ -1,7 +1,7 @@
 """
 "Case 2"
 Group:
-Fishchukova Sofia
+Fishchukova Sofia 60%
 Tsvykh Viktoria 70%
 """
 
